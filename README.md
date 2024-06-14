@@ -10,82 +10,6 @@ I am a seasoned professional in higher education with two master's degrees and a
 
 ### Course Modules
 
-- **Mediation and Negotiation (PUBPOL 507A)**
-  - **Module 1: Foundations of Mediation and Negotiation**
-    - *Course Description*: Introduction to the fundamental concepts of mediation and negotiation, focusing on the distinction between interests and positions.
-    - *Learning Objectives*:
-      - Define interests and positions.
-      - Apply interest-based approaches to conflict resolution.
-  - **Module 2: Designing Negotiation Processes**
-    - *Course Description*: Techniques for creating customized negotiation processes tailored to specific conflicts.
-    - *Learning Objectives*:
-      - Identify unique conflict aspects.
-      - Design negotiation processes considering issues, personalities, and circumstances.
-  - **Module 3: Communication Techniques in Negotiation**
-    - *Course Description*: Enhancing communication skills for effective negotiation.
-    - *Learning Objectives*:
-      - Implement 3-5 effective communication techniques.
-      - Analyze and interpret non-verbal communication styles.
-  - **Module 4: Practical Applications and Simulations**
-    - *Course Description*: Applying learned techniques in simulated exercises to practice and refine skills.
-    - *Learning Objectives*:
-      - Engage in simulated negotiations.
-      - Debrief and evaluate negotiation outcomes.
-
-- **Principles of Management (MGT 200)**
-  - **Module 1: Management and Leadership**
-    - *Course Description*: Introduction to the basic principles of management and leadership within organizations.
-    - *Learning Objectives*:
-      - Summarize what it means to be a manager.
-      - Compare and contrast the four functions of management.
-      - Illustrate major theorists in the evolution of management thought.
-      - Identify how love and culture impact strategy.
-  - **Module 2: The Impact of Values, Culture, and Ethics**
-    - *Course Description*: Examination of the influence of values, culture, and ethics on management practices.
-    - *Learning Objectives*:
-      - Describe enduring values and attitudes influencing management.
-      - Identify the sources of managerial ethics.
-      - Summarize why behaviors create culture.
-      - Identify why inclusion is a vital component of culture.
-  - **Module 3: Managing Diversity in a Global Environment**
-    - *Course Description*: Strategies for managing diversity in a global context.
-    - *Learning Objectives*:
-      - Articulate why effective management of diversity means more than hiring employees from diverse backgrounds.
-      - Describe the impact of the global environment on management.
-      - Connect empathy and vulnerability to a culture of love.
-  - **Module 4: Decision Making and Strategy**
-    - *Course Description*: Understanding decision-making processes and strategic planning in management.
-    - *Learning Objectives*:
-      - Describe how managers use creativity to make decisions.
-      - Analyze the importance of vision, mission, and strategy in management.
-      - Discuss how trust and empowerment are needed for a culture of love.
-  - **Module 5: The Value Chain and Organizational Culture and Structure**
-    - *Course Description*: Analysis of the value chain and its impact on organizational culture and structure.
-    - *Learning Objectives*:
-      - Describe the purpose of the value chain.
-      - Discuss the relationship between organizational structure and culture.
-      - Articulate why managing change is essential for success.
-      - Discuss the impact of forgiveness in a culture of love.
-  - **Module 6: Motivation, Leadership, and HR**
-    - *Course Description*: Exploration of motivation theories, leadership models, and human resource management.
-    - *Learning Objectives*:
-      - Discuss how motivation impacts performance.
-      - Analyze major leadership theories and models.
-      - Articulate several motivation techniques.
-      - Describe how organizations can bring humanity to human resources.
-  - **Module 7: Effective Teams and Communication**
-    - *Course Description*: Examination of team dynamics and effective communication strategies.
-    - *Learning Objectives*:
-      - Describe what is meant by effective groups and teams.
-      - Analyze how to promote effective communication.
-      - Analyze the impact of putting people above processes.
-  - **Module 8: Managing Conflict, Politics, and Negotiation**
-    - *Course Description*: Techniques for managing conflict, organizational politics, and negotiation.
-    - *Learning Objectives*:
-      - Discuss how conflict can be managed for good.
-      - Describe how a culture of love is a difference maker for employees.
-      - Describe how a culture of love is a difference maker for sustainability and success.
-
 - **Responsible AI (AI 301)**
   - **Module 1: Introduction to Responsible AI**
     - *Course Description*: Overview of the principles and importance of responsible AI, including ethical, legal, and social implications.
@@ -127,6 +51,28 @@ I am a seasoned professional in higher education with two master's degrees and a
     - *Learning Objectives*:
       - Identify emerging trends in AI ethics and governance.
       - Predict future challenges and opportunities in responsible AI.
+     
+-  **Principles of Management (MGT 200)**
+  - **Module 1: Management and Leadership**
+    - *Course Description*: Introduction to the basic principles of management and leadership within organizations.
+    - *Learning Objectives*:
+      - Summarize what it means to be a manager.
+      - Compare and contrast the four functions of management.
+      - Illustrate major theorists in the evolution of management thought.
+      - Identify how love and culture impact strategy.
+  - **Module 2: The Impact of Values, Culture, and Ethics**
+    - *Course Description*: Examination of the influence of values, culture, and ethics on management practices.
+    - *Learning Objectives*:
+      - Describe enduring values and attitudes influencing management.
+      - Identify the sources of managerial ethics.
+      - Summarize why behaviors create culture.
+      - Identify why inclusion is a vital component of culture.
+  - **Module 3: Managing Diversity in a Global Environment**
+    - *Course Description*: Strategies for managing diversity in a global context.
+    - *Learning Objectives*:
+      - Articulate why effective management of diversity means more than hiring employees from diverse backgrounds.
+      - Describe the impact of the global environment on management.
+      - Connect empathy and vulnerability to a culture of love.
 
 ### Assessments
 
