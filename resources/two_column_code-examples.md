@@ -1,4 +1,4 @@
-## Two Column Layout
+## Basic Two Column Layout
 
 ### Example
 <img width="992" alt="Screenshot 2024-06-28 at 5 09 31 PM" src="https://github.com/neriais/Instructional_Learning-Design/assets/57377953/02645800-95a5-4aab-a128-8f3df7aff8e5">
