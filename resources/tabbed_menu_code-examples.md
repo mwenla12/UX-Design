@@ -19,7 +19,7 @@
 </div>
 ```
 ## Instructions
-Copy and paste the code above into the HTML editor of any section of your page where you would like to add a tabbed menu. Replace the first four pieces of red, italicized text with your tab titles. Replace the next four pieces of red italicized text with the content contained in each tab.
+Copy and paste the code above into the HTML editor of any section of your page where you would like to add a tabbed menu. Replace the first four pieces of blue, italicized text with your tab titles. Replace the next four pieces of blue italicized text with the content contained in each tab.
 
 
 ### Here is an example of CSS to style the tabs in your tabbed menu:
