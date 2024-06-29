@@ -1,4 +1,4 @@
-# Tabbed Menu
+# Basic Tabbed Menu
 ## Example
 <img width="980" alt="Screenshot 2024-06-28 at 5 28 19 PM" src="https://github.com/neriais/Instructional_Learning-Design/assets/57377953/c8e1374a-906d-4acf-b4fa-6646d72003d1">
 
