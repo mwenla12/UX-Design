@@ -23,3 +23,39 @@ Copy and paste the code above into the HTML editor of any section of your page w
         </div>
     </div>
 </div>
+```
+### Styling the Two Column Layout
+## CSS Example
+Below is an example of how to style the two-column layout using CSS to make it visually appealing.
+
+```css
+.grid-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+}
+
+.grid-row > [class*='col-'] {
+    padding: 0 15px;
+    margin-bottom: 30px;
+}
+
+.col-xs-12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+@media (min-width: 768px) {
+    .col-md-12 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+}
+
+@media (min-width: 992px) {
+    .col-lg-6 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+}
+```
