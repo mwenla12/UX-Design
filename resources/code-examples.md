@@ -1,10 +1,12 @@
 ## Two Column Layout
 
 ### Example
+<img width="992" alt="Screenshot 2024-06-28 at 5 09 31 PM" src="https://github.com/neriais/Instructional_Learning-Design/assets/57377953/02645800-95a5-4aab-a128-8f3df7aff8e5">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dignissim scelerisque ornare. Nullam suscipit lectus vitae nulla fringilla dapibus. Praesent ultricies interdum finibus. Aliquam quis velit sed nisi porta ullamcorper id eget neque. Fusce malesuada fermentum vulputate. Pellentesque ut suscipit nibh, eget facilisis sem. Mauris a est a velit rhoncus imperdiet quis scelerisque ante. Morbi lacinia justo sed lacinia eleifend. Suspendisse et eros et quam faucibus tincidunt.
+## Instructions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dignissim scelerisque ornare. Nullam suscipit lectus vitae nulla fringilla dapibus. Praesent ultricies interdum finibus. Aliquam quis velit sed nisi porta ullamcorper id eget neque. Fusce malesuada fermentum vulputate. Pellentesque ut suscipit nibh, eget facilisis sem. Mauris a est a velit rhoncus imperdiet quis scelerisque ante. Morbi lacinia justo sed lacinia eleifend. Suspendisse et eros et quam faucibus tincidunt.
+Copy and paste the code above into the HTML editor of any section of your page where you would like to insert two columns. Replace the red italicized text, "Column 1 Content" and "Column 2 Content" with your own content. This code is mobile responsive, which means it will become two paragraphs in one column when viewed on a mobile device.
+
 
 ### Basic Code
 
